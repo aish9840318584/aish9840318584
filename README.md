@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aishwarya S
-- 👀 I’m interested in web development
+- 👀 I’m interested in Full stack development
 - 🌱 I’m currently learning Btech Information technology
 
 
